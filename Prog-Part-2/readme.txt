@@ -13,7 +13,7 @@ Start debugging or run the application by pressing F5 or selecting "Debug" > "St
 
 GitHub Repository:
 
-Link to GitHub Repository
+https://github.com/SoundClick-Agency/Recipe-Program--Programming-Part-2--C--
 
 Description:
 
