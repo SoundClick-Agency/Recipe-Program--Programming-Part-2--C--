@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\bin\Debug\net8.0\PROG-PART-1.exe
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\bin\Debug\net8.0\PROG-PART-1.deps.json
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\bin\Debug\net8.0\PROG-PART-1.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\bin\Debug\net8.0\PROG-PART-1.dll
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\bin\Debug\net8.0\PROG-PART-1.pdb
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.dll
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\refint\PROG-PART-1.dll
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.pdb
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\PROG-PART-1.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\PROG-PART-1\obj\Debug\net8.0\ref\PROG-PART-1.dll
